@@ -1,10 +1,3 @@
-//
-//  CurrentDate.swift
-//  Weather
-//
-//  Created by Mert Karagül on 1.04.2022.
-//
-
 import Foundation
 
 
