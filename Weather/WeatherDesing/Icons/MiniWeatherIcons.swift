@@ -1,10 +1,3 @@
-//
-//  MiniWeatherIcons.swift
-//  Weather
-//
-//  Created by Mert Karagül on 29.03.2022.
-//
-
 import SwiftUI
 
 struct MiniWeatherIcons: View {
