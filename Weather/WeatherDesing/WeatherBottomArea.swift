@@ -1,10 +1,3 @@
-//
-//  WeatherBottomArea.swift
-//  Weather
-//
-//  Created by Mert Karagül on 2.03.2022.
-//
-
 import SwiftUI
 import MapKit
 

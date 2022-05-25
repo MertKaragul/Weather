@@ -1,10 +1,3 @@
-//
-//  WeatherIcon.swift
-//  Weather
-//
-//  Created by Mert Karagül on 25.03.2022.
-//
-
 import Foundation
 import SwiftUI
 
